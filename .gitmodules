@@ -1,0 +1,4 @@
+[submodule "tests"]
+	path = tests/testdata
+	url = ../range3-tests
+	branch = develop
